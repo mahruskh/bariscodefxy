@@ -1,4 +1,4 @@
-# Web & Software Develoer
+# Web & Software Developer
 
 [![My Github Stats](https://github-readme-stats-lambdagaming.vercel.app/api?username=bariscodefxy&show_icons=true&title_color=ff5900&text_color=ffffff&icon_color=ffffff&border_color=ffffff&bg_color=000011&count_private=true)](https://github.com/bariscodefxy)
 
