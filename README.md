@@ -1,7 +1,13 @@
-# Full Stack Developer
+# Full-Stack Developer
 
-[![bariscodefx's Github Skills](https://github-readme-stats.vercel.app/api?username=bariscodefxy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/bariscodefxy)
+I started with HTML and CSS in this work in 2015-2016. In 2020 with pandemy i started learning PHP and Python. And a while ago i started learning JavaScript, C++, and C. Now i am a Full-Stack Developer. A while later i be a Full Software Developer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bariscodefxy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/bariscodefxy)
+I have a development team with some guys: [Link](https://github.com/VoltageSW/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue)](https://instagram.com/_bariscodefx_)
+# My Best Open Source Projects
+
+Discord Bot with PHP: [Link](https://github.com/bariscodefxy/hiro-bot.git)
+
+Online Web Squid Game (not yet): [Link](https://github.com/bariscodefxy/squixgame)
+
+Since 2015 © bariscodefx
