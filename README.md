@@ -8,6 +8,6 @@ I have a development team with some guys: [Link](https://github.com/VoltageSW/)
 
 Discord Bot with PHP: [Link](https://github.com/bariscodefxy/hiro-bot.git)
 
-Online Web Squid Game (not yet): [Link](https://github.com/bariscodefxy/squixgame)
+Online Web Squid Game (not yet): [Link](https://github.com/bariscodefxy/squix-game)
 
 Since 2015 © bariscodefx
