@@ -4,6 +4,10 @@ I started with HTML and CSS in this work in 2015-2016. In 2020 with pandemic i s
 
 I have a development team with some guys: [Link](https://github.com/VoltageSW/)
 
+![bariscodefxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bariscodefxy&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bariscodefxy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 # My Best Open Source Projects
 
 Discord Bot with PHP: [Link](https://github.com/bariscodefxy/hiro-bot.git)
