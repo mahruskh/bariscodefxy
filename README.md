@@ -2,7 +2,9 @@
 
 <div align="center">
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/793431383506681866)](https://discord.com/users/793431383506681866)  
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/793431383506681866)](https://discord.com/users/793431383506681866)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bariscodefxy&theme=dark&layout=compact)](https://github.com/bariscodefxy)
 
 </div>
 
