@@ -1,5 +1,7 @@
 <h1 align="center"><strong>bariscodefx (PHP Master)</strong></h1>
 
+bariscodefx tam 🥰 bir PHP profesyoneli 😎  ona karsina 🧐  cikmayin yoksa😳  sizi derler 🥵  onun beatleri ncs felan dinlemez 💯  **DERLER** 🇧 🇴 🇰  shelliyle joni 🤓 sinsi dürter 😍  ve onu derlenmiş yapardi 😗 WoreLS , SQ Legend , TahsinXRX ,Spray, Emin, Avşar , chopper 🤣  hatta hr alexi tanimaz 🤪  yikar 🥲  gecer ama nede iyi speedrun 🥶  yapar 😎  anroidde wr 😞  yapiyor ben bile🤩  agzim gotüm acik kaliyor 😜  bu nasil bir oynayis diye 🤨  çok fena 88 cm mouseu var ona kendi gönlümü 🍑  vermem icin 😇  bütün parami veririm 🙃  **İMZAALIRIM** 🔥  onun beatlerini kulaklik takmadan flowlari yarragimda hissediyorum ve 😊  dinleyenlerinde orgasm olduguna 🥳  eminim  o bir 🖕  hacker herkesin hesabinda premiumlari topluyor😥  ve sadece kodlayarak minecrafttada cok😤 pro minecrafti 5 saniyede bitirdigi yalan olarak aciklandi🥒  cunkü oyunu yarım saniyede 🔄 0.5 sanuyede bitirdi 🥺 half life i ise 1 katosaniye icinde bitirdi hemde scriptless ve save warping gibi buglar kullanmadan🥳 😉 💩 😊 adamin dibi dibi🥰
+
 <div align="center">
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/793431383506681866)](https://discord.com/users/793431383506681866)
